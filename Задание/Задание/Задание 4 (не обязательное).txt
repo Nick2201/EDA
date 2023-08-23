@@ -1,0 +1,7 @@
+В данном задании необходимо выполнить следующие пункты:
+1. Необходимо спарсить данные с сайта https://demoqa.com/books любым удобным для вас образом. В результате должен получиться csv файл следующей структуры(обратите внимание на ссылки):
+| Title            | Author               | Publisher      | Total Pages |
+| ---------------- | -------------------- | -------------- | ----------- |
+| Git Pocket Guide | Richard E. Silverman | O'Reilly Media | 234         |
+2. Необходимо используя Selenium подключиться к сайту https://demoqa.com/checkbox и выбрать следующие чекбоксы: "Desktop", "Office", "Angular"
+3. С помощью Selenium заполнить следующую форму https://demoqa.com/automation-practice-form и нажать кнопку отправить.
