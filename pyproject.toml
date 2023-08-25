@@ -12,6 +12,9 @@ xlrd = "^2.0.1"
 matplotlib = "^3.7.2"
 seaborn = "^0.12.2"
 openpyxl = "^3.1.2"
+python-levenshtein = "^0.21.1"
+fuzzywuzzy = "^0.18.0"
+validate-email-address = "^1"
 
 
 [tool.poetry.group.dev.dependencies]
